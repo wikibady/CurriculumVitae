@@ -1,6 +1,6 @@
-Curriculum Vitae
+#Curriculum Vitae
 
-===============
+**************
 
 __this is my first file in git__
 
@@ -10,10 +10,10 @@ __please tell me and I will update it better__
 **************
 
 #Contact  
-==============  
+************** 
 - email:hysuperliu@foxmail.com  
 - qq:443584373  
 
 *************  
-### __by bd.liu
+### __by bd.liu__
  
